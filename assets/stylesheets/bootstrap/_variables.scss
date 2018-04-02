@@ -31,12 +31,7 @@ $grays: map-merge((
   "600": $gray-600,
   "700": $gray-700,
   "800": $gray-800,
-  "900": $gray-900,
-  "funeral-green-dark":    $funeral-green-dark,
-  "funeral-green-light":   $funeral-green-light,
-  "funeral-gold":          $funeral-gold,
-  "funeral-orange-light":  $funeral-orange-light,
-  "funeral-orange-dark":   $funeral-orange-dark
+  "900": $gray-900
 ), $grays);
 
 $blue:    #007bff !default;
